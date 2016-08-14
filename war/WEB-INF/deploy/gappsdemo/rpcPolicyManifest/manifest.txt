@@ -1,0 +1,3 @@
+# Module gappsdemo
+# RPC service class, partial path of RPC policy file
+com.demo.gapps.client.GreetingService, 566C71BB1EB59455EE92FA13221CCC63.gwt.rpc

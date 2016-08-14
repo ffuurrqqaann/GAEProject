@@ -1,0 +1,2 @@
+serviceClass: com.demo.gapps.client.GreetingService
+path: 566C71BB1EB59455EE92FA13221CCC63.gwt.rpc
