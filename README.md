@@ -22,5 +22,6 @@ Things not considered to be Implemented:
 The application right now works only for a single user so the user management has not been implemented for now.
 
 Known issues:
+
 1. The backend process(cron) is working perfectly good i.e., runs every 10 minutes. The only issue is that the due to some restrictions the url redirection is not working.
 2. Another known issue in search API indexing is it does not support full text search the same case is with the google app engine datastore, thats why I have to handle the search functionality on application level that can be seen in the code.
